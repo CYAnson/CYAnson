@@ -11,7 +11,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a Project Manager in Hong Kong, currently working in the banking fintech area.  
-🎓 &nbsp; Graduated in City University of Hong Kong - 2017.\
+🎓 &nbsp; Graduated in City University of Hong Kong - Information Management (2017).\
 🌱 &nbsp;I'm on track learning more about Artificial Intelligence, Financial engineering and business insight analysis.\
 ✍️ &nbsp;In my free time, I enjoy playing soccer and reading books as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions in interesting topics!\
