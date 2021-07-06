@@ -1,7 +1,7 @@
 ![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
 
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' height='20' align="left"/> Hello there !
 
 
 
@@ -14,7 +14,7 @@
 🌱 &nbsp;I'm on track learning more about Artificial Intelligence, Financial engineering and business insight analysis.\
 ✍️ &nbsp;In my free time, I enjoy playing soccer and reading books as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions in interesting topics!\
-✉️ &nbsp;You can email me at clawnchan@gmail.com. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at clawnchan@gmail.com. I'll try to respond as soon as possible!
 
 
 ### 🛠 &nbsp;Tech Stack
