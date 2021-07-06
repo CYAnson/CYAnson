@@ -8,14 +8,12 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer and researcher at VNIT Nagpur, currently working in the field of adaptive sensing and multimodal detection of human behavioral
-patterns.\
-🎓 &nbsp;I'm currently studying Computer Science and Engineering at Visvesvaraya National Institute of Technology, Nagpur (2017-2021).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
-✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at dhadwal1507@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1w5AblZq-laLRa9Cdq2qUtNwD8jIsvRlQ/view?usp=sharing) for more details about work experience.
+💡 &nbsp; I'm a Project Manager in Hong Kong, currently working in the banking fintech area.  
+🎓 &nbsp; Graduated in City University of Hong Kong - 2017.\
+🌱 &nbsp;I'm on track learning more about Artificial Intelligence, Financial engineering and business insight analysis.\
+✍️ &nbsp;In my free time, I enjoy playing soccer and reading books as my hobbies.\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions in interesting topics!\
+✉️ &nbsp;You can email me at clawnchan@gmail.com. I'll try to respond as soon as possible!\
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -32,8 +30,7 @@ patterns.\
 
 
 <a href="https://www.linkedin.com/in/abhishek-singh-dhadwal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:dhadwal1507@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/abhi_1507"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="mailto:clawnchan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 
 
