@@ -6,7 +6,7 @@
 
 
 ![version :06.07.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+![Scrum Master PSM I : passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a Project Manager in Hong Kong, currently working in the banking fintech area.  
