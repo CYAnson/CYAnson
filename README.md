@@ -6,7 +6,7 @@
 
 
 
-![Version :06.07.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
+![Version :06.07.2021](https://img.shields.io/badge/version-06.07.2021-informational) &nbsp;
 ![Pass: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
