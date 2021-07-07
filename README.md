@@ -37,5 +37,3 @@
 
 
 
-![Github banner](https://user-images.githubusercontent.com/86970988/124772775-e7020d00-df6e-11eb-992f-a6e949b7236b.gif)
-
